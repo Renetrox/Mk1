@@ -74,7 +74,7 @@ license:		Creative Commons NC-BY-SA-4.0
         <pos>-0.0998 0.11</pos>
         <size>0.95 0.40</size>
         <logoScale>1.24</logoScale>
-        <logoSize>0.25 0.25</logoSize>
+        <logoSize>0.24 0.24</logoSize>
         <color>00000000</color>
         <maxLogoCount>6</maxLogoCount>
       </carousel>
@@ -319,7 +319,8 @@ license:		Creative Commons NC-BY-SA-4.0
 		</text>
 		<text name="md_players">
 			<pos>0.79 0.282</pos>
-			<size>0.14 0.03</size>
+			<size>35 0.035</size>
+			<fontPath>./_inc/fonts/players.ttf</fontPath>
 		</text>
 		
 		<text name="lbl_description" extra="true">
